@@ -22,6 +22,25 @@ This app allows you to:
 
 ---
 
+🧪 Testing
+This project uses Jest and Supertest for testing the API server.
+
+✔️ Testing Types Covered
+Unit Tests: Logic tests for controllers.
+
+Integration Tests: Tests interaction between server and database.
+
+API Tests: Verifies endpoint responses using Supertest.
+
+---
+
+🛠 Testing Tools
+jest: JavaScript testing framework.
+
+supertest: HTTP assertions for testing Node.js APIs.
+
+mongodb-memory-server: In-memory MongoDB for isolated testing.
+
 ## 🧑‍💻 How to Run
 
 ### Backend (API Server)
