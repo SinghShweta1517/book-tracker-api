@@ -25,3 +25,13 @@ Base URL: `http://localhost:5000/api/books`
   "rating": 4.5,
   "review": "Inspirational story."
 }
+
+## 🧪 Testing
+
+This project uses **Jest** and **Supertest** for testing.
+
+### How to Run Tests
+
+```bash
+npm test
+
